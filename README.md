@@ -1,6 +1,6 @@
 # Prueba-Tecnica_BID
 
-Este repositorio contiene la solución a la prueba técnica del BID (Banco Interamericano de Desarrollo) para la posición de Data Science & Gen AI. La prueba consta de dos ejercicios que evalúan habilidades en análisis de datos, procesamiento de lenguaje natural y sistemas de IA generativa.
+Este repositorio contiene la solución a la prueba técnica del BID (Banco Interamericano de Desarrollo) para la posición de consultor en inteligencia artificial. La prueba consta de dos ejercicios que evalúan habilidades en análisis de datos, procesamiento de lenguaje natural y sistemas de IA generativa.
 
 ## Ejercicio 1: Sistema de Similitud de Productos
 
